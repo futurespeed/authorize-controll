@@ -1,5 +1,5 @@
-#Authorize Control
+# Authorize Control
 Authorize frame for many authorization scenes.
 
-##Main Frame
+## Main Frame
 ![ac-main](ac-main.png)
